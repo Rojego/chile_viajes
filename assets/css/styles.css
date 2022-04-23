@@ -1,0 +1,46 @@
+/* Body */
+
+body {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+nav img {
+    width: 30px;
+}
+
+.quienes .ico {
+    font-size: 30px;
+}
+
+.destaca .card {
+    height: 450px;
+}
+
+.destaca .card img {
+    height: 200px;
+}
+
+.destaca .card h5 {
+    font-size: 25px;
+}
+
+footer h3 {
+    font-weight: 400;
+}
+
+footer a {
+    padding: 0 10px;
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
